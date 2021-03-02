@@ -1,0 +1,8 @@
+{
+  "name": "vite-fs-repro",
+  "version": "0.1.0",
+  "workspaces": [
+    "packages/app"
+  ],
+  "private": true
+}
